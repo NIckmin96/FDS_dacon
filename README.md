@@ -7,6 +7,6 @@
   1-1. K-Means<br>
   1-2. DBSCAN<br>
   1-3. GMM<br>
-2. DL
+2. DL<br>
   2-1. AutoEncoder
-3. Anomaly Detection Algorithm
+3. Anomaly Detection Algorithm<br>
