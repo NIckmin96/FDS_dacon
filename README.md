@@ -4,9 +4,9 @@
 
 ## IDEA
 1. 군집화<br>
-  <br>1-1. K-Means
-  1-2. DBSCAN
-  1-3. GMM
+  1-1. K-Means<br>
+  1-2. DBSCAN<br>
+  1-3. GMM<br>
 2. DL
   2-1. AutoEncoder
 3. Anomaly Detection Algorithm
