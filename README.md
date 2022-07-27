@@ -3,7 +3,7 @@
 ## Topic : Creating a Fraud Detection System on credit card purchases
 
 ## AutoEncoder
-### __Best Result__ (so far)
+__Best Result__ (so far)
 - Layer : (30,64) → (64,80) → (80,100) → (100,80) → (80,64) → (64,30)
 - BS : 2048
 - Epochs : 400
